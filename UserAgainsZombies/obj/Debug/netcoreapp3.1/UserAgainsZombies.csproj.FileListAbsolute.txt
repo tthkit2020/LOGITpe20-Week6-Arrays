@@ -1,0 +1,13 @@
+C:\Users\julia.voronetskaja\source\repos\Week6Arrays\UserAgainsZombies\bin\Debug\netcoreapp3.1\UserAgainsZombies.exe
+C:\Users\julia.voronetskaja\source\repos\Week6Arrays\UserAgainsZombies\bin\Debug\netcoreapp3.1\UserAgainsZombies.deps.json
+C:\Users\julia.voronetskaja\source\repos\Week6Arrays\UserAgainsZombies\bin\Debug\netcoreapp3.1\UserAgainsZombies.runtimeconfig.json
+C:\Users\julia.voronetskaja\source\repos\Week6Arrays\UserAgainsZombies\bin\Debug\netcoreapp3.1\UserAgainsZombies.runtimeconfig.dev.json
+C:\Users\julia.voronetskaja\source\repos\Week6Arrays\UserAgainsZombies\bin\Debug\netcoreapp3.1\UserAgainsZombies.dll
+C:\Users\julia.voronetskaja\source\repos\Week6Arrays\UserAgainsZombies\bin\Debug\netcoreapp3.1\UserAgainsZombies.pdb
+C:\Users\julia.voronetskaja\source\repos\Week6Arrays\UserAgainsZombies\obj\Debug\netcoreapp3.1\UserAgainsZombies.csprojAssemblyReference.cache
+C:\Users\julia.voronetskaja\source\repos\Week6Arrays\UserAgainsZombies\obj\Debug\netcoreapp3.1\UserAgainsZombies.AssemblyInfoInputs.cache
+C:\Users\julia.voronetskaja\source\repos\Week6Arrays\UserAgainsZombies\obj\Debug\netcoreapp3.1\UserAgainsZombies.AssemblyInfo.cs
+C:\Users\julia.voronetskaja\source\repos\Week6Arrays\UserAgainsZombies\obj\Debug\netcoreapp3.1\UserAgainsZombies.csproj.CoreCompileInputs.cache
+C:\Users\julia.voronetskaja\source\repos\Week6Arrays\UserAgainsZombies\obj\Debug\netcoreapp3.1\UserAgainsZombies.dll
+C:\Users\julia.voronetskaja\source\repos\Week6Arrays\UserAgainsZombies\obj\Debug\netcoreapp3.1\UserAgainsZombies.pdb
+C:\Users\julia.voronetskaja\source\repos\Week6Arrays\UserAgainsZombies\obj\Debug\netcoreapp3.1\UserAgainsZombies.genruntimeconfig.cache
